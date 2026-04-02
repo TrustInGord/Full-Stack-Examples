@@ -1,5 +1,7 @@
 <img width="1415" height="1041" alt="login-component" src="https://github.com/user-attachments/assets/e4866ae6-4fc2-4d27-b67c-5636fec06f6b" />
 
+<img width="867" height="755" alt="movie" src="https://github.com/user-attachments/assets/d838689e-410a-4c80-b7d1-97e845088f06" />
+
 <img width="830" height="883" alt="Twinder" src="https://github.com/user-attachments/assets/f953c068-9402-455e-beec-d1921fed2fd8" />
 
 <img width="645" height="704" alt="image" src="https://github.com/user-attachments/assets/8131932b-f4fe-43e2-9399-59a8c9d185f8" />
